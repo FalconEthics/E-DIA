@@ -20,11 +20,12 @@ The GPA Calculator tool allows users to calculate their grade point average base
 The Tic-Tac-Toe game is a simple game that allows users to play against the computer. Users can choose to play as X or O, and the computer will make its moves automatically.
 
 - More to be added soon!
-## Usage
-To use the `CLI-APPS-C-PLUS-PLUS tools`, simply download or clone the repository and compile the source code. Then, run the executable files in your terminal or command prompt.
+
+## Installation
+In the meantime, feel free to check out the `beta release` [ https://github.com/FalconEthics/SYNTATIC-TOOLS/releases/tag/BETA ] and start using it for your daily development needs. I'm always open to feedback and suggestions, so please don't hesitate to reach out with any thoughts you may have. Thanks for your support!
 
 ## Contributions
-Contributions to `CLI-APPS-C-PLUS-PLUS` are welcome! If you would like to contribute to the project, please fork the repository and submit a pull request with your changes.
+As for the graphical user interface, I'm thinking of  creating one using QT gui. However, I haven't had enough time to learn the library thoroughly. That's why I would be thrilled if anyone is interested in contributing to this project. Your contributions could help make Syntatic-Tools even better and more user-friendly. please fork the repository and submit a pull request with your changes.
 
 ## License
 It is released under the MIT License. See the `LICENSE` file for more information.
