@@ -46,7 +46,7 @@ This project is licensed under the GNU License. See the [LICENSE](./LICENSE) fil
 
 ## Contributions
 
-Contributions to enhance and expand the functionality of E-DIA are welcome. Please submit issues and pull requests on the project's [GitHub repository](https://github.com/yourusername/edia).
+Contributions to enhance and expand the functionality of E-DIA are welcome. Please submit issues and pull requests on the project's [GitHub repository](https://github.com/FalconEthics/E-DIA).
 
 ## Acknowledgments
 
