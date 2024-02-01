@@ -50,6 +50,6 @@ Contributions to enhance and expand the functionality of E-DIA are welcome. Plea
 
 ## Acknowledgments
 
-E-DIA was created by [Your Name] to simplify the process of managing image collections. Special thanks to the open-source community for their contributions and support.
+E-DIA was created to simplify the process of managing image collections. Special thanks to the open-source community for their contributions and support.
 
 **Disclaimer**: This tool is provided as-is, and the developer is not responsible for any data loss or unintended consequences. Use it responsibly and with caution.
